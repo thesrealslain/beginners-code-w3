@@ -1,6 +1,6 @@
 # beginners-code-w3
 
-This is the continuation of the code journey, week three's content.
+This is the next continuation of the code journey, week three's content.
 
 ## Contents
 
